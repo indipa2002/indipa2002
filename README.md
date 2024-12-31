@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m indipa karannagoda </h1> <br>
-- 👀 I’m interested in ...<br>
-- 🌱 I’m currently learning ...<br>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+- 🌱 I’m currently learning mern stack<br>
 - 💞️ I’m looking to collaborate on ...<br>
-- 📫 How to reach me ...<br>
+- 📫 How to reach me indipakarannagoda11@gmail.com<br>
 - 😄 Pronouns: ...<br>
 - ⚡ Fun fact: ...<br>
 
