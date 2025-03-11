@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m indipa karannagoda </h1> <br>
-- I’m an Undergraduate at SLIIT<br>
+- 🧑‍🎓 I’m an Undergraduate at SLIIT<br>
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 - 🌱 I’m currently learning mern,java<br>
 - 💬 Ask me about Java,html,css,javascript,php,C,C++<br>
