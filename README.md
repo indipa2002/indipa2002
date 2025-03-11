@@ -1,10 +1,9 @@
 <h1>👋 Hi, I’m indipa karannagoda </h1> <br>
+- I’m an Undergraduate at SLIIT<br>
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
-- 🌱 I’m currently learning mern stack<br>
-- 💞️ I’m looking to collaborate on ...<br>
+- 🌱 I’m currently learning mern,java<br>
+- 💬 Ask me about Java,html,css,javascript,php,C,C++<br>
 - 📫 How to reach me indipakarannagoda11@gmail.com<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_indipa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Indipa) 
